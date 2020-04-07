@@ -3,7 +3,7 @@ To Run the project, please follow the steps give n below
 
 1. Checkout the following four files
   1. ML_TEAM_4_Hotel_Data_Prep.ipynb
-  2. ML_TEAM_4_Hotel_Price_predictor.ipynb
+  2. ML_TEAM_4_Hotel_Model_Analysis_Regression.ipynb
   3. ML_TEAM_4_Hotel_Model_Analysis_classification.ipynb
   4. Tensorflow_for_Cancellation.ipynb
   5. hotel_bookings.csv
@@ -11,7 +11,7 @@ To Run the project, please follow the steps give n below
 2. Once checked out. Run the ML_TEAM_4_Hotel_Data_Prep.ipynb in Jupyter notebook first. This file is the data exploration and prepartion
    step and it prepares and stores the data both regression and classification analysis.
 3. Upon successful completion of the run of the above file, any of the other three files can be run
-4. The ML_TEAM_4_Hotel_Price_predictor.ipynb predicts the ADR(Average daily rates or price per night) of a hotel using top 60 features
+4. The ML_TEAM_4_Hotel_Model_Analysis_Regression.ipynb predicts the ADR(Average daily rates or price per night) of a hotel using top 60 features
     that have been selected using Kbest method. The analysis and prediction is of regression type and the models used for this process are
     1. Linear Regression
     2. Lasso Regression
