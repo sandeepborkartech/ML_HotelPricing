@@ -5,7 +5,7 @@ To Run the project, please follow the steps give n below
   1. ML_TEAM_4_Hotel_Data_Prep.ipynb
   2. ML_TEAM_4_Hotel_Price_predictor.ipynb
   3. ML_TEAM_4_Hotel_Model_Analysis_classification.ipynb
-  4. ensorflow_for_Cancellation.ipynb
+  4. Tensorflow_for_Cancellation.ipynb
   5. hotel_bookings.csv
   
 2. Once checked out. Run the ML_TEAM_4_Hotel_Data_Prep.ipynb in Jupyter notebook first. This file is the data exploration and prepartion
