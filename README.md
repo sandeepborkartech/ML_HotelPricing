@@ -36,13 +36,14 @@ To Run the project, please follow the steps give n below
     5.TanH
  
 Important instructions
-1. All three analysis files are processor intensive 
+1. All three analysis files are processor intensive. 
    and depending on the resource availibility of your computer(s) can take anywhere between 3-4 hours each.
 2. Please make sure to run the three analysis file one at a time.
 3. The most suitable configuration for running all file at the same time would be an 8-core hyperthreaded cpu with either a 4 core GPU 
-   or an external eGPU.
-4. Please note that all 4 files store processed data in pickle files at regular intervals. Please scan the code to check where these
-   checkpoints/pickle file creations are. you can simply continue from a checkpoint in case the process hangs your computer becomes unresponsive.
+   or an external eGPU and a minimum of 32GB RAM. It would still take atleast an hour to run all 3 files together.
+4. Please note that all 4 files, store processed data, in pickle files at regular intervals. Please scan the code to check where these
+   checkpoints/pickle file creations are. You can simply continue from a checkpoint in case the process hangs or your computer becomes   
+   unresponsive.
    
    Thanks you !!!
 
