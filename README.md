@@ -31,11 +31,11 @@ To Run the project, please follow the steps give n below
  7. The final file Tensorflow_for_Cancellation.ipynb was yet another attempt to predict booking cancellation 
     using the power of neural nets
  8. The activation functions used are
-    1.ELU
-    2.RELU
-    3.SELU
-    4.Sigmoid
-    5.TanH
+    1. ELU
+    2. RELU
+    3. SELU
+    4. Sigmoid
+    5. TanH
  
 Important instructions
 1. All three analysis files are processor intensive. 
@@ -47,7 +47,7 @@ Important instructions
    where these checkpoints/pickle file creations are. You can simply continue from a checkpoint in case the process hangs or 
    your computer becomes unresponsive.
    
-   Thanks you !!!
+   Thank you!!!
 
 
 
