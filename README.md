@@ -2,6 +2,9 @@
 
 To Run the project, please follow the steps given below
 
+Link to kaggle datasource:
+https://www.kaggle.com/jessemostipak/hotel-booking-demand
+
 Powerpoint presentation file is: Machine Learning Term Project Presentation.pdf
 
 1. Checkout the following 5 files
